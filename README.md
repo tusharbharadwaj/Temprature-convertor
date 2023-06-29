@@ -1,6 +1,6 @@
 # Project-3- *Temprature convertor App*
 
-**Temprature Convertor App** is a tip calculator application for iOS.
+**Temprature Convertor App** 
 
 Submitted by: **Tushar Bharadwaj**
 
